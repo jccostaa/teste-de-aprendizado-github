@@ -6,5 +6,5 @@ para rodar o projeto na sua maquina digite:
 
 ...
 
-nom install react
+npm install react
 ...
